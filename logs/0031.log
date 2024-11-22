@@ -1,0 +1,283 @@
+Debug: Dataset contains 5818 samples.
+Loaded 100/5818 samples into memory.
+Loaded 200/5818 samples into memory.
+Loaded 300/5818 samples into memory.
+Loaded 400/5818 samples into memory.
+Loaded 500/5818 samples into memory.
+Loaded 600/5818 samples into memory.
+Loaded 700/5818 samples into memory.
+Loaded 800/5818 samples into memory.
+Loaded 900/5818 samples into memory.
+Loaded 1000/5818 samples into memory.
+Loaded 1100/5818 samples into memory.
+Loaded 1200/5818 samples into memory.
+Loaded 1300/5818 samples into memory.
+Loaded 1400/5818 samples into memory.
+Loaded 1500/5818 samples into memory.
+Loaded 1600/5818 samples into memory.
+Loaded 1700/5818 samples into memory.
+Loaded 1800/5818 samples into memory.
+Loaded 1900/5818 samples into memory.
+Loaded 2000/5818 samples into memory.
+Loaded 2100/5818 samples into memory.
+Loaded 2200/5818 samples into memory.
+Loaded 2300/5818 samples into memory.
+Loaded 2400/5818 samples into memory.
+Loaded 2500/5818 samples into memory.
+Loaded 2600/5818 samples into memory.
+Loaded 2700/5818 samples into memory.
+Loaded 2800/5818 samples into memory.
+Loaded 2900/5818 samples into memory.
+Loaded 3000/5818 samples into memory.
+Loaded 3100/5818 samples into memory.
+Loaded 3200/5818 samples into memory.
+Loaded 3300/5818 samples into memory.
+Loaded 3400/5818 samples into memory.
+Loaded 3500/5818 samples into memory.
+Loaded 3600/5818 samples into memory.
+Loaded 3700/5818 samples into memory.
+Loaded 3800/5818 samples into memory.
+Loaded 3900/5818 samples into memory.
+Loaded 4000/5818 samples into memory.
+Loaded 4100/5818 samples into memory.
+Loaded 4200/5818 samples into memory.
+Loaded 4300/5818 samples into memory.
+Loaded 4400/5818 samples into memory.
+Loaded 4500/5818 samples into memory.
+Loaded 4600/5818 samples into memory.
+Loaded 4700/5818 samples into memory.
+Loaded 4800/5818 samples into memory.
+Loaded 4900/5818 samples into memory.
+Loaded 5000/5818 samples into memory.
+Loaded 5100/5818 samples into memory.
+Loaded 5200/5818 samples into memory.
+Loaded 5300/5818 samples into memory.
+Loaded 5400/5818 samples into memory.
+Loaded 5500/5818 samples into memory.
+Loaded 5600/5818 samples into memory.
+Loaded 5700/5818 samples into memory.
+Loaded 5800/5818 samples into memory.
+Epoch [1/55] Summary:
+  Train Loss: 98.4999, Train MAPE: 98.50%
+  Total Data Loading Time: 0.90s, Total Computation Time: 27.06s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.54s
+Epoch [2/55] Summary:
+  Train Loss: 92.0890, Train MAPE: 92.09%
+  Total Data Loading Time: 0.88s, Total Computation Time: 27.81s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.16s
+Epoch [3/55] Summary:
+  Train Loss: 82.7270, Train MAPE: 82.73%
+  Total Data Loading Time: 0.86s, Total Computation Time: 27.58s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.18s
+Epoch [4/55] Summary:
+  Train Loss: 74.8931, Train MAPE: 74.89%
+  Total Data Loading Time: 0.87s, Total Computation Time: 27.58s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.46s
+Epoch [5/55] Summary:
+  Train Loss: 69.3330, Train MAPE: 69.33%
+  Total Data Loading Time: 0.87s, Total Computation Time: 27.51s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.23s
+Epoch [6/55] Summary:
+  Train Loss: 66.7766, Train MAPE: 66.78%
+  Total Data Loading Time: 0.89s, Total Computation Time: 27.48s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.41s
+Epoch [7/55] Summary:
+  Train Loss: 65.5993, Train MAPE: 65.60%
+  Total Data Loading Time: 0.91s, Total Computation Time: 27.46s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.48s
+Epoch [8/55] Summary:
+  Train Loss: 64.1972, Train MAPE: 64.20%
+  Total Data Loading Time: 0.90s, Total Computation Time: 27.67s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.58s
+Epoch [9/55] Summary:
+  Train Loss: 63.1379, Train MAPE: 63.14%
+  Total Data Loading Time: 0.89s, Total Computation Time: 27.58s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.14s
+Epoch [10/55] Summary:
+  Train Loss: 63.1192, Train MAPE: 63.12%
+  Total Data Loading Time: 0.90s, Total Computation Time: 27.55s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.40s
+Epoch [11/55] Summary:
+  Train Loss: 62.9997, Train MAPE: 63.00%
+  Total Data Loading Time: 0.89s, Total Computation Time: 27.57s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.23s
+Epoch [12/55] Summary:
+  Train Loss: 62.6145, Train MAPE: 62.61%
+  Total Data Loading Time: 0.90s, Total Computation Time: 27.54s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.45s
+Epoch [13/55] Summary:
+  Train Loss: 62.9958, Train MAPE: 63.00%
+  Total Data Loading Time: 0.90s, Total Computation Time: 27.54s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.67s
+Epoch [14/55] Summary:
+  Train Loss: 62.6343, Train MAPE: 62.63%
+  Total Data Loading Time: 0.90s, Total Computation Time: 27.52s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.55s
+Epoch [15/55] Summary:
+  Train Loss: 62.3437, Train MAPE: 62.34%
+  Total Data Loading Time: 0.90s, Total Computation Time: 27.49s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.55s
+Epoch [16/55] Summary:
+  Train Loss: 62.0964, Train MAPE: 62.10%
+  Total Data Loading Time: 0.91s, Total Computation Time: 27.54s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.45s
+Epoch [17/55] Summary:
+  Train Loss: 61.4500, Train MAPE: 61.45%
+  Total Data Loading Time: 0.91s, Total Computation Time: 27.65s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.57s
+Epoch [18/55] Summary:
+  Train Loss: 61.2355, Train MAPE: 61.24%
+  Total Data Loading Time: 0.90s, Total Computation Time: 27.66s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.67s
+Epoch [19/55] Summary:
+  Train Loss: 60.7308, Train MAPE: 60.73%
+  Total Data Loading Time: 0.89s, Total Computation Time: 27.44s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.43s
+Epoch [20/55] Summary:
+  Train Loss: 60.5429, Train MAPE: 60.54%
+  Total Data Loading Time: 0.86s, Total Computation Time: 27.61s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.84s
+Epoch [21/55] Summary:
+  Train Loss: 59.8491, Train MAPE: 59.85%
+  Total Data Loading Time: 0.94s, Total Computation Time: 26.93s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.09s
+Epoch [22/55] Summary:
+  Train Loss: 59.7689, Train MAPE: 59.77%
+  Total Data Loading Time: 0.98s, Total Computation Time: 27.59s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.23s
+Epoch [23/55] Summary:
+  Train Loss: 59.2395, Train MAPE: 59.24%
+  Total Data Loading Time: 0.97s, Total Computation Time: 27.44s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.27s
+Epoch [24/55] Summary:
+  Train Loss: 59.3144, Train MAPE: 59.31%
+  Total Data Loading Time: 0.89s, Total Computation Time: 27.44s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.57s
+Epoch [25/55] Summary:
+  Train Loss: 58.9740, Train MAPE: 58.97%
+  Total Data Loading Time: 0.91s, Total Computation Time: 27.45s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.31s
+Epoch [26/55] Summary:
+  Train Loss: 58.4453, Train MAPE: 58.45%
+  Total Data Loading Time: 0.93s, Total Computation Time: 27.33s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.17s
+Epoch [27/55] Summary:
+  Train Loss: 58.0790, Train MAPE: 58.08%
+  Total Data Loading Time: 0.91s, Total Computation Time: 26.71s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.75s
+Epoch [28/55] Summary:
+  Train Loss: 58.0147, Train MAPE: 58.01%
+  Total Data Loading Time: 0.92s, Total Computation Time: 27.46s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.54s
+Epoch [29/55] Summary:
+  Train Loss: 57.5461, Train MAPE: 57.55%
+  Total Data Loading Time: 0.90s, Total Computation Time: 27.46s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.63s
+Epoch [30/55] Summary:
+  Train Loss: 57.1911, Train MAPE: 57.19%
+  Total Data Loading Time: 0.87s, Total Computation Time: 26.88s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 28.55s
+Epoch [31/55] Summary:
+  Train Loss: 56.4724, Train MAPE: 56.47%
+  Total Data Loading Time: 0.87s, Total Computation Time: 25.93s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 28.13s
+Epoch [32/55] Summary:
+  Train Loss: 56.1733, Train MAPE: 56.17%
+  Total Data Loading Time: 0.89s, Total Computation Time: 25.96s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.12s
+Epoch [33/55] Summary:
+  Train Loss: 55.7458, Train MAPE: 55.75%
+  Total Data Loading Time: 0.89s, Total Computation Time: 26.08s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 27.86s
+Epoch [34/55] Summary:
+  Train Loss: 55.0067, Train MAPE: 55.01%
+  Total Data Loading Time: 0.89s, Total Computation Time: 26.09s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.41s
+Epoch [35/55] Summary:
+  Train Loss: 54.3468, Train MAPE: 54.35%
+  Total Data Loading Time: 0.89s, Total Computation Time: 26.95s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.71s
+Epoch [36/55] Summary:
+  Train Loss: 53.6817, Train MAPE: 53.68%
+  Total Data Loading Time: 0.91s, Total Computation Time: 27.67s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.01s
+Epoch [37/55] Summary:
+  Train Loss: 53.2007, Train MAPE: 53.20%
+  Total Data Loading Time: 0.91s, Total Computation Time: 27.66s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.28s
+Epoch [38/55] Summary:
+  Train Loss: 52.4274, Train MAPE: 52.43%
+  Total Data Loading Time: 0.91s, Total Computation Time: 27.20s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.43s
+Epoch [39/55] Summary:
+  Train Loss: 51.8009, Train MAPE: 51.80%
+  Total Data Loading Time: 0.91s, Total Computation Time: 27.27s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.00s
+Epoch [40/55] Summary:
+  Train Loss: 51.8612, Train MAPE: 51.86%
+  Total Data Loading Time: 0.93s, Total Computation Time: 27.37s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.20s
+Epoch [41/55] Summary:
+  Train Loss: 50.9216, Train MAPE: 50.92%
+  Total Data Loading Time: 0.92s, Total Computation Time: 27.43s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 30.88s
+Epoch [42/55] Summary:
+  Train Loss: 50.0859, Train MAPE: 50.09%
+  Total Data Loading Time: 0.91s, Total Computation Time: 27.60s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.69s
+Epoch [43/55] Summary:
+  Train Loss: 49.4157, Train MAPE: 49.42%
+  Total Data Loading Time: 0.91s, Total Computation Time: 27.65s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.69s
+Epoch [44/55] Summary:
+  Train Loss: 49.1431, Train MAPE: 49.14%
+  Total Data Loading Time: 0.90s, Total Computation Time: 27.62s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.02s
+Epoch [45/55] Summary:
+  Train Loss: 48.4216, Train MAPE: 48.42%
+  Total Data Loading Time: 0.87s, Total Computation Time: 27.53s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.05s
+Epoch [46/55] Summary:
+  Train Loss: 47.6043, Train MAPE: 47.60%
+  Total Data Loading Time: 0.97s, Total Computation Time: 27.60s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 31.40s
+Epoch [47/55] Summary:
+  Train Loss: 46.9009, Train MAPE: 46.90%
+  Total Data Loading Time: 0.89s, Total Computation Time: 25.90s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 28.52s
+Epoch [48/55] Summary:
+  Train Loss: 45.6756, Train MAPE: 45.68%
+  Total Data Loading Time: 0.88s, Total Computation Time: 25.88s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 28.08s
+Epoch [49/55] Summary:
+  Train Loss: 45.5122, Train MAPE: 45.51%
+  Total Data Loading Time: 0.87s, Total Computation Time: 25.86s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 28.87s
+Epoch [50/55] Summary:
+  Train Loss: 45.0145, Train MAPE: 45.01%
+  Total Data Loading Time: 0.87s, Total Computation Time: 25.87s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 27.67s
+Epoch [51/55] Summary:
+  Train Loss: 43.8185, Train MAPE: 43.82%
+  Total Data Loading Time: 0.88s, Total Computation Time: 25.86s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 27.39s
+Epoch [52/55] Summary:
+  Train Loss: 43.6092, Train MAPE: 43.61%
+  Total Data Loading Time: 0.88s, Total Computation Time: 25.84s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 28.05s
+Epoch [53/55] Summary:
+  Train Loss: 43.0336, Train MAPE: 43.03%
+  Total Data Loading Time: 0.92s, Total Computation Time: 25.71s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 27.68s
+Epoch [54/55] Summary:
+  Train Loss: 41.4902, Train MAPE: 41.49%
+  Total Data Loading Time: 0.91s, Total Computation Time: 25.82s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.69s
+Epoch [55/55] Summary:
+  Train Loss: 41.2615, Train MAPE: 41.26%
+  Total Data Loading Time: 0.90s, Total Computation Time: 27.48s, Total Data Transfer Time: 0.00s
+  Total Epoch Time: 29.34s
+Model zapisany w: ../models/car_price_regressor.pth
+
+
+Evaluation Summary: MAPE: 67.01%, Average Loss: 67.0127
